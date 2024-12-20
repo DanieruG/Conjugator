@@ -1,0 +1,87 @@
+{% extends "navBar.html" %}
+
+{% block content %}
+
+<style>
+    .form-check-input {
+        margin-left: 3px;
+    }
+    .form-check-label {
+        margin-left: 18px;
+    }
+</style>
+
+<div class="mx-auto" style="width: 800px;">
+        <div class="card m-4">
+            <!-- Margin top moves the box upwards -->
+            <h4 class="card-header">Customise your exercise</h4>
+
+            <div class="form-check">
+
+                <input class="form-check-input" type="checkbox" value="" id="checkERending">
+                <label class="form-check-label" for="checkERending">
+                  Include -er verbs
+                </label>
+                <br>
+
+                <input class="form-check-input" type="checkbox" value="" id="checkREending">
+                <label class="form-check-label" for="checkREending">
+                  Include -re verbs
+                </label>
+                <br>
+
+                <input class="form-check-input" type="checkbox" value="" id="checkIRending">
+                <label class="form-check-label" for="checkIRending">
+                  Include -ir verbs
+                </label>
+                <br>
+
+                <!-- <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                <label class="form-check-label" for="flexCheckDefault">
+                  Include irregular verbs
+                </label> -->
+
+            </div>
+
+            <label for="verbSelector" style="padding: 20px;">
+                Select your verbs
+                <br>
+                <select class="js-example-basic-multiple js-states form-control" id="verbSelector" multiple="multiple" style="width: 50%; padding: 50px;">
+                    <option>Avoir</option> <!-- Iterate options using Jinja templating -->
+                    <option>Jouer</option>
+                </select>
+            </label>
+            <label for="pronounSelector" style="padding: 20px;">
+                Select the pronouns required
+                <br>
+                <select class="js-example-basic-multiple js-states form-control" id="pronounSelector" multiple="multiple" style="width: 50%; padding-left: 50px;">
+                    <!-- Options go here. -->
+                </select>
+            </label>
+
+            <label for="tenseSelector" style="padding: 20px;">
+                Select the tenses required
+                <br>
+                <select class="js-example-basic-multiple js-states form-control" id="tenseSelector" multiple="multiple" style="width: 50%; padding-left: 50px;">
+                    <optgroup label="-er verbs">
+                        {% for verb in er_verbs %}
+                        <option>{{ verb }}</option>
+                        {% endfor %}
+                    </optgroup>
+                </select>
+            </label>
+ 
+            <label for="exerciseDuration" style="padding: 20px">
+                Duration (in minutes)
+                <br>
+                <input type="number" id="exerciseDuration"> <!-- Needs to have a limit, other validation in place. -->
+            </label>
+
+            <button type="submit" class="btn btn-primary mx-auto" style="margin-bottom: 10px;">Start exercise</button>
+
+
+        </div>
+</div>
+
+
+{% endblock %}

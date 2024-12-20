@@ -1,0 +1,2002 @@
+[
+    {
+        "verb": "abaisser",
+        "translation": "to lower"
+    },
+    {
+        "verb": "abasourdir",
+        "translation": "to daze, bewilder"
+    },
+    {
+        "verb": "abattre",
+        "translation": "to knock down"
+    },
+    {
+        "verb": "abolir",
+        "translation": "to abolish"
+    },
+    {
+        "verb": "absoudre",
+        "translation": "to abolish"
+    },
+    {
+        "verb": "accepter",
+        "translation": "to accept"
+    },
+    {
+        "verb": "acclamer",
+        "translation": "to cheer, acclaim"
+    },
+    {
+        "verb": "accompagner",
+        "translation": "to accompany"
+    },
+    {
+        "verb": "accorder",
+        "translation": "to admit"
+    },
+    {
+        "verb": "accourir",
+        "translation": "to hurry"
+    },
+    {
+        "verb": "accrocher",
+        "translation": "to hang (up)"
+    },
+    {
+        "verb": "accueillir",
+        "translation": "to welcome"
+    },
+    {
+        "verb": "accuser",
+        "translation": "to accuse, acknowledge"
+    },
+    {
+        "verb": "acheter",
+        "translation": "to buy"
+    },
+    {
+        "verb": "achever",
+        "translation": "to achieve"
+    },
+    {
+        "verb": "acquérir",
+        "translation": "to acquire"
+    },
+    {
+        "verb": "adjoindre",
+        "translation": "to appoint"
+    },
+    {
+        "verb": "admettre",
+        "translation": "to admit"
+    },
+    {
+        "verb": "admirer",
+        "translation": "to admire"
+    },
+    {
+        "verb": "adorer",
+        "translation": "to adore"
+    },
+    {
+        "verb": "adresser",
+        "translation": "to address"
+    },
+    {
+        "verb": "advenir",
+        "translation": "to happen"
+    },
+    {
+        "verb": "affaiblir",
+        "translation": "to weaken"
+    },
+    {
+        "verb": "agacer",
+        "translation": "to annoy"
+    },
+    {
+        "verb": "agir",
+        "translation": "to act"
+    },
+    {
+        "verb": "aider",
+        "translation": "to help"
+    },
+    {
+        "verb": "aimer",
+        "translation": "to like, love"
+    },
+    {
+        "verb": "ajouter",
+        "translation": "to add"
+    },
+    {
+        "verb": "aller",
+        "translation": "to go"
+    },
+    {
+        "verb": "aménager",
+        "translation": "to fit"
+    },
+    {
+        "verb": "amener",
+        "translation": "to take"
+    },
+    {
+        "verb": "amuser",
+        "translation": "to amuse"
+    },
+    {
+        "verb": "animer",
+        "translation": "to bring to life"
+    },
+    {
+        "verb": "annoncer",
+        "translation": "to announce"
+    },
+    {
+        "verb": "apercevoir",
+        "translation": "to see"
+    },
+    {
+        "verb": "apparaître",
+        "translation": "to appear"
+    },
+    {
+        "verb": "appartenir",
+        "translation": "to belong"
+    },
+    {
+        "verb": "appeler",
+        "translation": "to call"
+    },
+    {
+        "verb": "apporter",
+        "translation": "to bring"
+    },
+    {
+        "verb": "apprendre",
+        "translation": "to learn"
+    },
+    {
+        "verb": "apprendre",
+        "translation": "par cœur\tto memorise"
+    },
+    {
+        "verb": "approcher",
+        "translation": "to approach"
+    },
+    {
+        "verb": "approuver",
+        "translation": "to approve (of)"
+    },
+    {
+        "verb": "armer",
+        "translation": "to arm"
+    },
+    {
+        "verb": "arracher",
+        "translation": "to pull up/out"
+    },
+    {
+        "verb": "arranger",
+        "translation": "to arrange"
+    },
+    {
+        "verb": "arrasisonner",
+        "translation": "to hail"
+    },
+    {
+        "verb": "arrêter",
+        "translation": "to stop"
+    },
+    {
+        "verb": "arriver",
+        "translation": "to arrive"
+    },
+    {
+        "verb": "asaillir",
+        "translation": "to assail"
+    },
+    {
+        "verb": "asseoir",
+        "translation": "to sit down"
+    },
+    {
+        "verb": "assister",
+        "translation": "to attend"
+    },
+    {
+        "verb": "assurer",
+        "translation": "to assure"
+    },
+    {
+        "verb": "astreindre",
+        "translation": "to compel"
+    },
+    {
+        "verb": "attaquer",
+        "translation": "to attack"
+    },
+    {
+        "verb": "atteindre",
+        "translation": "to attain"
+    },
+    {
+        "verb": "attendre",
+        "translation": "to wait for"
+    },
+    {
+        "verb": "attirer",
+        "translation": "to attract"
+    },
+    {
+        "verb": "attraper",
+        "translation": "to catch"
+    },
+    {
+        "verb": "augmenter",
+        "translation": "to increase"
+    },
+    {
+        "verb": "avancer",
+        "translation": "to advance"
+    },
+    {
+        "verb": "aventurer",
+        "translation": "to venture"
+    },
+    {
+        "verb": "avoir",
+        "translation": "to have"
+    },
+    {
+        "verb": "avoir",
+        "translation": "besoin\tto need"
+    },
+    {
+        "verb": "avoir",
+        "translation": "raison\tto be right"
+    },
+    {
+        "verb": "baisser",
+        "translation": "to lower"
+    },
+    {
+        "verb": "balancer",
+        "translation": "to swing"
+    },
+    {
+        "verb": "balayer",
+        "translation": "to sweep"
+    },
+    {
+        "verb": "bâtir",
+        "translation": "to build"
+    },
+    {
+        "verb": "battre",
+        "translation": "to beat"
+    },
+    {
+        "verb": "bavarder",
+        "translation": "to chat"
+    },
+    {
+        "verb": "bêlir",
+        "translation": "to bleet"
+    },
+    {
+        "verb": "bénir",
+        "translation": "to bless"
+    },
+    {
+        "verb": "blaguer",
+        "translation": "to joke"
+    },
+    {
+        "verb": "blâmer",
+        "translation": "to blame"
+    },
+    {
+        "verb": "blanchir",
+        "translation": "to bleach"
+    },
+    {
+        "verb": "blesser",
+        "translation": "to hurt, offend"
+    },
+    {
+        "verb": "boire",
+        "translation": "to drink"
+    },
+    {
+        "verb": "bouger",
+        "translation": "to move"
+    },
+    {
+        "verb": "bouillir",
+        "translation": "to boil"
+    },
+    {
+        "verb": "briser",
+        "translation": "to break"
+    },
+    {
+        "verb": "brosser",
+        "translation": "to brush"
+    },
+    {
+        "verb": "broyer",
+        "translation": "to grind"
+    },
+    {
+        "verb": "brûler",
+        "translation": "to burn"
+    },
+    {
+        "verb": "cacher",
+        "translation": "to hide"
+    },
+    {
+        "verb": "casser",
+        "translation": "to break"
+    },
+    {
+        "verb": "causer",
+        "translation": "to cause"
+    },
+    {
+        "verb": "céder",
+        "translation": "to give up"
+    },
+    {
+        "verb": "ceindre",
+        "translation": "to put on"
+    },
+    {
+        "verb": "célebrer",
+        "translation": "to celebrate"
+    },
+    {
+        "verb": "cesser",
+        "translation": "to cease"
+    },
+    {
+        "verb": "changer",
+        "translation": "to change"
+    },
+    {
+        "verb": "chanter",
+        "translation": "to sing"
+    },
+    {
+        "verb": "charger",
+        "translation": "to load"
+    },
+    {
+        "verb": "chasser",
+        "translation": "to hunt, chase"
+    },
+    {
+        "verb": "cheminer",
+        "translation": "to walk on"
+    },
+    {
+        "verb": "chercher",
+        "translation": "to look for"
+    },
+    {
+        "verb": "chérir",
+        "translation": "to cherish"
+    },
+    {
+        "verb": "choisir",
+        "translation": "to choose"
+    },
+    {
+        "verb": "chuchoter",
+        "translation": "to whisper"
+    },
+    {
+        "verb": "circoncire",
+        "translation": "to circumcise"
+    },
+    {
+        "verb": "circonscrire",
+        "translation": "to contain"
+    },
+    {
+        "verb": "circonvenir",
+        "translation": "to circumvent"
+    },
+    {
+        "verb": "clore",
+        "translation": "to close"
+    },
+    {
+        "verb": "coller",
+        "translation": "to stick"
+    },
+    {
+        "verb": "combattre",
+        "translation": "to combat"
+    },
+    {
+        "verb": "commander",
+        "translation": "to order"
+    },
+    {
+        "verb": "commencer",
+        "translation": "to start"
+    },
+    {
+        "verb": "commettre",
+        "translation": "to commit"
+    },
+    {
+        "verb": "comparaître",
+        "translation": "to appear"
+    },
+    {
+        "verb": "comparer",
+        "translation": "to compare"
+    },
+    {
+        "verb": "compléter",
+        "translation": "to complete"
+    },
+    {
+        "verb": "comprendre",
+        "translation": "to understand"
+    },
+    {
+        "verb": "compter",
+        "translation": "to count"
+    },
+    {
+        "verb": "concevoir",
+        "translation": "to conceive"
+    },
+    {
+        "verb": "conclure",
+        "translation": "to conclude"
+    },
+    {
+        "verb": "concourir",
+        "translation": "to compete"
+    },
+    {
+        "verb": "conduire",
+        "translation": "to drive"
+    },
+    {
+        "verb": "confire",
+        "translation": "to preserve"
+    },
+    {
+        "verb": "confondre",
+        "translation": "to confuse"
+    },
+    {
+        "verb": "conjoindre",
+        "translation": "to unite"
+    },
+    {
+        "verb": "connaître",
+        "translation": "to know"
+    },
+    {
+        "verb": "conquérir",
+        "translation": "to conquer"
+    },
+    {
+        "verb": "conseiller",
+        "translation": "to recommend"
+    },
+    {
+        "verb": "consentir",
+        "translation": "to consent"
+    },
+    {
+        "verb": "considérer",
+        "translation": "to consider"
+    },
+    {
+        "verb": "consommer",
+        "translation": "to consume"
+    },
+    {
+        "verb": "construire",
+        "translation": "to construct"
+    },
+    {
+        "verb": "contenir",
+        "translation": "to contain"
+    },
+    {
+        "verb": "conter",
+        "translation": "to recount"
+    },
+    {
+        "verb": "continuer",
+        "translation": "to continue"
+    },
+    {
+        "verb": "contraindre",
+        "translation": "to compel"
+    },
+    {
+        "verb": "contredire",
+        "translation": "to contradict"
+    },
+    {
+        "verb": "contrevenir",
+        "translation": "to contravene"
+    },
+    {
+        "verb": "contrôler",
+        "translation": "to control"
+    },
+    {
+        "verb": "convaincre",
+        "translation": "to convince"
+    },
+    {
+        "verb": "convenir",
+        "translation": "to convene"
+    },
+    {
+        "verb": "correspondre",
+        "translation": "to correspond"
+    },
+    {
+        "verb": "corriger",
+        "translation": "to correct"
+    },
+    {
+        "verb": "corrompre",
+        "translation": "to corrupt"
+    },
+    {
+        "verb": "coucher",
+        "translation": "to put to bed"
+    },
+    {
+        "verb": "coudre",
+        "translation": "to sew"
+    },
+    {
+        "verb": "couper",
+        "translation": "to cut"
+    },
+    {
+        "verb": "courir",
+        "translation": "to run"
+    },
+    {
+        "verb": "coûter",
+        "translation": "to cost"
+    },
+    {
+        "verb": "couvrir",
+        "translation": "to cover"
+    },
+    {
+        "verb": "craindre",
+        "translation": "to fear"
+    },
+    {
+        "verb": "créer",
+        "translation": "to create"
+    },
+    {
+        "verb": "crier",
+        "translation": "to shout"
+    },
+    {
+        "verb": "croire",
+        "translation": "to believe"
+    },
+    {
+        "verb": "cueillir",
+        "translation": "to gather"
+    },
+    {
+        "verb": "cuire",
+        "translation": "to cook"
+    },
+    {
+        "verb": "culpabiliser",
+        "translation": "to make sb feel guilty"
+    },
+    {
+        "verb": "danser",
+        "translation": "to dance"
+    },
+    {
+        "verb": "débattre",
+        "translation": "to debate"
+    },
+    {
+        "verb": "décevoir",
+        "translation": "to disappoint"
+    },
+    {
+        "verb": "déchirer",
+        "translation": "to rip"
+    },
+    {
+        "verb": "décider",
+        "translation": "to decide"
+    },
+    {
+        "verb": "déclore",
+        "translation": "to reopen"
+    },
+    {
+        "verb": "déconfire",
+        "translation": "to be beaten"
+    },
+    {
+        "verb": "découdre",
+        "translation": "to unpick"
+    },
+    {
+        "verb": "décourager",
+        "translation": "to discourage"
+    },
+    {
+        "verb": "découvrir",
+        "translation": "to discover"
+    },
+    {
+        "verb": "décrire",
+        "translation": "to describe"
+    },
+    {
+        "verb": "déduire",
+        "translation": "to deduce"
+    },
+    {
+        "verb": "défaillir",
+        "translation": "to faint"
+    },
+    {
+        "verb": "défaire",
+        "translation": "to undo"
+    },
+    {
+        "verb": "défendre",
+        "translation": "to defend"
+    },
+    {
+        "verb": "défricher",
+        "translation": "to lay groundwork"
+    },
+    {
+        "verb": "dégager",
+        "translation": "to free"
+    },
+    {
+        "verb": "déjeuner",
+        "translation": "to have lunch"
+    },
+    {
+        "verb": "demander",
+        "translation": "to ask for"
+    },
+    {
+        "verb": "déménager",
+        "translation": "to move (out)"
+    },
+    {
+        "verb": "demeurer",
+        "translation": "to live, stay"
+    },
+    {
+        "verb": "démolir",
+        "translation": "to demolish"
+    },
+    {
+        "verb": "dénoncer",
+        "translation": "to denounce"
+    },
+    {
+        "verb": "départir",
+        "translation": "to accord"
+    },
+    {
+        "verb": "dépasser",
+        "translation": "to exceed"
+    },
+    {
+        "verb": "dépêcher",
+        "translation": "to hurry"
+    },
+    {
+        "verb": "dépeindre",
+        "translation": "to depict"
+    },
+    {
+        "verb": "dépendre",
+        "translation": "to depend"
+    },
+    {
+        "verb": "dépenser",
+        "translation": "to spend"
+    },
+    {
+        "verb": "déplaire",
+        "translation": "to displease"
+    },
+    {
+        "verb": "déranger",
+        "translation": "to disturb"
+    },
+    {
+        "verb": "descendre",
+        "translation": "to descend"
+    },
+    {
+        "verb": "désirer",
+        "translation": "to desire"
+    },
+    {
+        "verb": "désobéir",
+        "translation": "to disobey"
+    },
+    {
+        "verb": "dessiner",
+        "translation": "to draw"
+    },
+    {
+        "verb": "déteindre",
+        "translation": "to bleach"
+    },
+    {
+        "verb": "détester",
+        "translation": "to hate"
+    },
+    {
+        "verb": "détiner",
+        "translation": "to hold"
+    },
+    {
+        "verb": "détourner",
+        "translation": "to divert"
+    },
+    {
+        "verb": "détruire",
+        "translation": "to destroy"
+    },
+    {
+        "verb": "développer",
+        "translation": "to develop"
+    },
+    {
+        "verb": "devenir",
+        "translation": "to become"
+    },
+    {
+        "verb": "devoir",
+        "translation": "to have to"
+    },
+    {
+        "verb": "différer",
+        "translation": "to differ"
+    },
+    {
+        "verb": "diminuer",
+        "translation": "to diminish"
+    },
+    {
+        "verb": "dîner",
+        "translation": "to have dinner"
+    },
+    {
+        "verb": "dire",
+        "translation": "to say"
+    },
+    {
+        "verb": "diriger",
+        "translation": "to direct"
+    },
+    {
+        "verb": "discourir",
+        "translation": "to discourse"
+    },
+    {
+        "verb": "discuter",
+        "translation": "to discuss"
+    },
+    {
+        "verb": "disjoindre",
+        "translation": "to disconnect"
+    },
+    {
+        "verb": "disparaître",
+        "translation": "to disappear"
+    },
+    {
+        "verb": "dissoudre",
+        "translation": "to dissolve"
+    },
+    {
+        "verb": "divorcer",
+        "translation": "to divorce"
+    },
+    {
+        "verb": "donner",
+        "translation": "to give"
+    },
+    {
+        "verb": "dormir",
+        "translation": "to sleep"
+    },
+    {
+        "verb": "doubler",
+        "translation": "to pass"
+    },
+    {
+        "verb": "douter",
+        "translation": "to doubt"
+    },
+    {
+        "verb": "échapper",
+        "translation": "to escape"
+    },
+    {
+        "verb": "échouer",
+        "translation": "to fail"
+    },
+    {
+        "verb": "éclore",
+        "translation": "to hatch"
+    },
+    {
+        "verb": "éconduire",
+        "translation": "to dismiss"
+    },
+    {
+        "verb": "écouter",
+        "translation": "to listen"
+    },
+    {
+        "verb": "écraser",
+        "translation": "to crush"
+    },
+    {
+        "verb": "écrire",
+        "translation": "to write"
+    },
+    {
+        "verb": "effacer",
+        "translation": "to erase"
+    },
+    {
+        "verb": "effrayer",
+        "translation": "to frighten"
+    },
+    {
+        "verb": "égayer",
+        "translation": "to entertain"
+    },
+    {
+        "verb": "élever",
+        "translation": "to raise"
+    },
+    {
+        "verb": "élire",
+        "translation": "to elect"
+    },
+    {
+        "verb": "éloigner",
+        "translation": "to move away"
+    },
+    {
+        "verb": "embrasser",
+        "translation": "to kiss"
+    },
+    {
+        "verb": "emmener",
+        "translation": "to take"
+    },
+    {
+        "verb": "émoudre",
+        "translation": "to sharpen"
+    },
+    {
+        "verb": "emparer",
+        "translation": "to impare"
+    },
+    {
+        "verb": "empêcher",
+        "translation": "to prevent"
+    },
+    {
+        "verb": "employer",
+        "translation": "to employ, use"
+    },
+    {
+        "verb": "empreindre",
+        "translation": "to imprint"
+    },
+    {
+        "verb": "emprunter",
+        "translation": "to borrow"
+    },
+    {
+        "verb": "enclore",
+        "translation": "to enclose"
+    },
+    {
+        "verb": "encourager",
+        "translation": "to encourage"
+    },
+    {
+        "verb": "encourir",
+        "translation": "to incur"
+    },
+    {
+        "verb": "endormir",
+        "translation": "to fall asleep"
+    },
+    {
+        "verb": "enduire",
+        "translation": "to coat"
+    },
+    {
+        "verb": "enfreindre",
+        "translation": "to infringe"
+    },
+    {
+        "verb": "engager",
+        "translation": "to bind"
+    },
+    {
+        "verb": "enjoindre",
+        "translation": "to enjoin"
+    },
+    {
+        "verb": "enlever",
+        "translation": "to remove"
+    },
+    {
+        "verb": "ennuyer",
+        "translation": "to bore, annoy"
+    },
+    {
+        "verb": "énoncer",
+        "translation": "to state"
+    },
+    {
+        "verb": "enregistrer",
+        "translation": "to record"
+    },
+    {
+        "verb": "enseigner",
+        "translation": "to teach"
+    },
+    {
+        "verb": "entendre",
+        "translation": "to hear"
+    },
+    {
+        "verb": "enterrer",
+        "translation": "to bury"
+    },
+    {
+        "verb": "entrainer",
+        "translation": "to involve, pull"
+    },
+    {
+        "verb": "entreprendre",
+        "translation": "to undertake"
+    },
+    {
+        "verb": "entrer",
+        "translation": "to enter"
+    },
+    {
+        "verb": "entretenir",
+        "translation": "to look after"
+    },
+    {
+        "verb": "entrouvrir",
+        "translation": "to half-open"
+    },
+    {
+        "verb": "envoler",
+        "translation": "to take flight"
+    },
+    {
+        "verb": "envoyer",
+        "translation": "to send"
+    },
+    {
+        "verb": "épeler",
+        "translation": "to spell"
+    },
+    {
+        "verb": "épouser",
+        "translation": "to marry"
+    },
+    {
+        "verb": "épreindre",
+        "translation": "to juice"
+    },
+    {
+        "verb": "éprouver",
+        "translation": "to test"
+    },
+    {
+        "verb": "équivaloir",
+        "translation": "to equal"
+    },
+    {
+        "verb": "espérer",
+        "translation": "to hope"
+    },
+    {
+        "verb": "essayer",
+        "translation": "to try"
+    },
+    {
+        "verb": "essuyer",
+        "translation": "to wipe"
+    },
+    {
+        "verb": "estimer",
+        "translation": "to estimare"
+    },
+    {
+        "verb": "établir",
+        "translation": "to establish"
+    },
+    {
+        "verb": "éteindre",
+        "translation": "to extinguish"
+    },
+    {
+        "verb": "étendre",
+        "translation": "to stretch"
+    },
+    {
+        "verb": "étourdir",
+        "translation": "to stun"
+    },
+    {
+        "verb": "être",
+        "translation": "to be"
+    },
+    {
+        "verb": "étreindre",
+        "translation": "to embrace"
+    },
+    {
+        "verb": "éttoner",
+        "translation": "to astonish"
+    },
+    {
+        "verb": "étudier",
+        "translation": "to study"
+    },
+    {
+        "verb": "évaluer",
+        "translation": "to evaluate"
+    },
+    {
+        "verb": "éviter",
+        "translation": "to avoid"
+    },
+    {
+        "verb": "exagérer",
+        "translation": "to exaggerate"
+    },
+    {
+        "verb": "excluire",
+        "translation": "to exclude"
+    },
+    {
+        "verb": "excuser",
+        "translation": "to excuse"
+    },
+    {
+        "verb": "exiger",
+        "translation": "to demand"
+    },
+    {
+        "verb": "exister",
+        "translation": "to exist"
+    },
+    {
+        "verb": "expliquer",
+        "translation": "to explain"
+    },
+    {
+        "verb": "explorer",
+        "translation": "to explore"
+    },
+    {
+        "verb": "exprimer",
+        "translation": "to express"
+    },
+    {
+        "verb": "fâcher",
+        "translation": "to get angry"
+    },
+    {
+        "verb": "faiblir",
+        "translation": "to weaken"
+    },
+    {
+        "verb": "faillir",
+        "translation": "to lack"
+    },
+    {
+        "verb": "faire",
+        "translation": "to make, do"
+    },
+    {
+        "verb": "falloir",
+        "translation": "to be necessary"
+    },
+    {
+        "verb": "feindre",
+        "translation": "to feign"
+    },
+    {
+        "verb": "féliciter",
+        "translation": "to congratulate"
+    },
+    {
+        "verb": "fendre",
+        "translation": "to split, crack"
+    },
+    {
+        "verb": "fermer",
+        "translation": "to close"
+    },
+    {
+        "verb": "feuilleter",
+        "translation": "to leaf through"
+    },
+    {
+        "verb": "fier",
+        "translation": "to depend on"
+    },
+    {
+        "verb": "finir",
+        "translation": "to finish"
+    },
+    {
+        "verb": "fixer",
+        "translation": "to fix"
+    },
+    {
+        "verb": "fonder",
+        "translation": "to found"
+    },
+    {
+        "verb": "forcer",
+        "translation": "to force"
+    },
+    {
+        "verb": "forclore",
+        "translation": "to debar"
+    },
+    {
+        "verb": "fouiller",
+        "translation": "to dig deeply"
+    },
+    {
+        "verb": "fournir",
+        "translation": "to furnish, provide"
+    },
+    {
+        "verb": "frapper",
+        "translation": "to knock"
+    },
+    {
+        "verb": "frémir",
+        "translation": "to shudder"
+    },
+    {
+        "verb": "frire",
+        "translation": "to fry"
+    },
+    {
+        "verb": "fuir",
+        "translation": "to flee"
+    },
+    {
+        "verb": "fumer",
+        "translation": "to smoke"
+    },
+    {
+        "verb": "gagner",
+        "translation": "to earn, win"
+    },
+    {
+        "verb": "garder",
+        "translation": "to keep"
+    },
+    {
+        "verb": "gaspiller",
+        "translation": "to waste"
+    },
+    {
+        "verb": "gâter",
+        "translation": "to spoil"
+    },
+    {
+        "verb": "geindre",
+        "translation": "to groan"
+    },
+    {
+        "verb": "geler",
+        "translation": "to freeze"
+    },
+    {
+        "verb": "gêner",
+        "translation": "to bother"
+    },
+    {
+        "verb": "gérer",
+        "translation": "to manage"
+    },
+    {
+        "verb": "goûter",
+        "translation": "to taste"
+    },
+    {
+        "verb": "grandir",
+        "translation": "to grow"
+    },
+    {
+        "verb": "gratter",
+        "translation": "to scratch"
+    },
+    {
+        "verb": "grêler",
+        "translation": "to hail"
+    },
+    {
+        "verb": "grimper",
+        "translation": "to climb"
+    },
+    {
+        "verb": "gronder",
+        "translation": "to scold"
+    },
+    {
+        "verb": "guérir",
+        "translation": "to cure"
+    },
+    {
+        "verb": "habiller",
+        "translation": "to dress"
+    },
+    {
+        "verb": "habiter",
+        "translation": "to live"
+    },
+    {
+        "verb": "haïr",
+        "translation": "to hate"
+    },
+    {
+        "verb": "hésister",
+        "translation": "to hesitate"
+    },
+    {
+        "verb": "hoqueter",
+        "translation": "to hiccup"
+    },
+    {
+        "verb": "ignorer",
+        "translation": "to be unaware of, ignore"
+    },
+    {
+        "verb": "imposer",
+        "translation": "to impose"
+    },
+    {
+        "verb": "inclure",
+        "translation": "to include"
+    },
+    {
+        "verb": "indiquer",
+        "translation": "to indicate"
+    },
+    {
+        "verb": "induire",
+        "translation": "to mislead"
+    },
+    {
+        "verb": "informer",
+        "translation": "to inform"
+    },
+    {
+        "verb": "inquiéter",
+        "translation": "to worry"
+    },
+    {
+        "verb": "inscrire",
+        "translation": "to write down"
+    },
+    {
+        "verb": "insister",
+        "translation": "to insist"
+    },
+    {
+        "verb": "instruire",
+        "translation": "to instruct"
+    },
+    {
+        "verb": "interdire",
+        "translation": "to forbid"
+    },
+    {
+        "verb": "intéresser",
+        "translation": "to interest"
+    },
+    {
+        "verb": "interroger",
+        "translation": "to question"
+    },
+    {
+        "verb": "introduire",
+        "translation": "to introduce"
+    },
+    {
+        "verb": "inventer",
+        "translation": "to invent"
+    },
+    {
+        "verb": "inviter",
+        "translation": "to invite"
+    },
+    {
+        "verb": "jaillir",
+        "translation": "to spurt out"
+    },
+    {
+        "verb": "jaser",
+        "translation": "to chatter"
+    },
+    {
+        "verb": "jaunir",
+        "translation": "to turn yellow"
+    },
+    {
+        "verb": "jeter",
+        "translation": "to throw"
+    },
+    {
+        "verb": "joindre",
+        "translation": "to join"
+    },
+    {
+        "verb": "jouer",
+        "translation": "to play"
+    },
+    {
+        "verb": "jouir",
+        "translation": "to enjoy"
+    },
+    {
+        "verb": "juger",
+        "translation": "to judge"
+    },
+    {
+        "verb": "jurer",
+        "translation": "to swear, vow"
+    },
+    {
+        "verb": "kidnapper",
+        "translation": "to kidnap"
+    },
+    {
+        "verb": "klaxonner",
+        "translation": "to honk"
+    },
+    {
+        "verb": "lâcher",
+        "translation": "to loosen"
+    },
+    {
+        "verb": "laisser",
+        "translation": "to leave"
+    },
+    {
+        "verb": "lancer",
+        "translation": "to throw"
+    },
+    {
+        "verb": "laver",
+        "translation": "to wash"
+    },
+    {
+        "verb": "lever",
+        "translation": "to lift, stand"
+    },
+    {
+        "verb": "lire",
+        "translation": "to read"
+    },
+    {
+        "verb": "loger",
+        "translation": "to lodge"
+    },
+    {
+        "verb": "louer",
+        "translation": "to rent"
+    },
+    {
+        "verb": "luire",
+        "translation": "to shine"
+    },
+    {
+        "verb": "maigrir",
+        "translation": "to lose weight"
+    },
+    {
+        "verb": "maintenir",
+        "translation": "to maintain"
+    },
+    {
+        "verb": "manger",
+        "translation": "to eat"
+    },
+    {
+        "verb": "manquer",
+        "translation": "to miss"
+    },
+    {
+        "verb": "marcher",
+        "translation": "to walk, function"
+    },
+    {
+        "verb": "maudire",
+        "translation": "to curse"
+    },
+    {
+        "verb": "méconnaître",
+        "translation": "to be unaware of"
+    },
+    {
+        "verb": "médire",
+        "translation": "to malign"
+    },
+    {
+        "verb": "méfier",
+        "translation": "to mistrust"
+    },
+    {
+        "verb": "mélanger",
+        "translation": "to mix"
+    },
+    {
+        "verb": "menacer",
+        "translation": "to threaten"
+    },
+    {
+        "verb": "mener",
+        "translation": "to lead"
+    },
+    {
+        "verb": "mentir",
+        "translation": "to lie"
+    },
+    {
+        "verb": "méprendre",
+        "translation": "to mistake"
+    },
+    {
+        "verb": "mépriser",
+        "translation": "to scorn"
+    },
+    {
+        "verb": "mériter",
+        "translation": "to deserve"
+    },
+    {
+        "verb": "mesurer",
+        "translation": "to measure"
+    },
+    {
+        "verb": "mettre",
+        "translation": "to put"
+    },
+    {
+        "verb": "modérer",
+        "translation": "to moderate"
+    },
+    {
+        "verb": "monter",
+        "translation": "to climb"
+    },
+    {
+        "verb": "montrer",
+        "translation": "to show"
+    },
+    {
+        "verb": "moquer",
+        "translation": "to mock"
+    },
+    {
+        "verb": "mordre",
+        "translation": "to bite"
+    },
+    {
+        "verb": "moudre",
+        "translation": "to mill, girl"
+    },
+    {
+        "verb": "mouiller",
+        "translation": "to wet"
+    },
+    {
+        "verb": "mourir",
+        "translation": "to die"
+    },
+    {
+        "verb": "nager",
+        "translation": "to swim"
+    },
+    {
+        "verb": "naître",
+        "translation": "to be born"
+    },
+    {
+        "verb": "naviguer",
+        "translation": "to navigate"
+    },
+    {
+        "verb": "négliger",
+        "translation": "to neglect"
+    },
+    {
+        "verb": "négocier",
+        "translation": "to negociate"
+    },
+    {
+        "verb": "neiger",
+        "translation": "to snow"
+    },
+    {
+        "verb": "nettoyer",
+        "translation": "to clean"
+    },
+    {
+        "verb": "neutraliser",
+        "translation": "to neutralise"
+    },
+    {
+        "verb": "nier",
+        "translation": "to deny"
+    },
+    {
+        "verb": "noircir",
+        "translation": "to blacken"
+    },
+    {
+        "verb": "nommer",
+        "translation": "to name"
+    },
+    {
+        "verb": "noter",
+        "translation": "to write down"
+    },
+    {
+        "verb": "nouer",
+        "translation": "to knot, tie"
+    },
+    {
+        "verb": "nourir",
+        "translation": "to feed"
+    },
+    {
+        "verb": "noyer",
+        "translation": "to drown"
+    },
+    {
+        "verb": "nuire",
+        "translation": "to harm"
+    },
+    {
+        "verb": "obéir",
+        "translation": "to obey"
+    },
+    {
+        "verb": "obliger",
+        "translation": "to oblige"
+    },
+    {
+        "verb": "obtenir",
+        "translation": "to obtain, get"
+    },
+    {
+        "verb": "occlure",
+        "translation": "to occlude"
+    },
+    {
+        "verb": "occuper",
+        "translation": "to occupy"
+    },
+    {
+        "verb": "offrir",
+        "translation": "to offer"
+    },
+    {
+        "verb": "oindre",
+        "translation": "to anoint"
+    },
+    {
+        "verb": "omettre",
+        "translation": "to omit"
+    },
+    {
+        "verb": "oser",
+        "translation": "to dare"
+    },
+    {
+        "verb": "oublier",
+        "translation": "to forger"
+    },
+    {
+        "verb": "ouvrir",
+        "translation": "to open"
+    },
+    {
+        "verb": "paraître",
+        "translation": "to seem"
+    },
+    {
+        "verb": "parcourir",
+        "translation": "to travel, cover"
+    },
+    {
+        "verb": "pardonner",
+        "translation": "to forgive"
+    },
+    {
+        "verb": "parler",
+        "translation": "to talk"
+    },
+    {
+        "verb": "partager",
+        "translation": "to share"
+    },
+    {
+        "verb": "participer",
+        "translation": "to participate"
+    },
+    {
+        "verb": "partir",
+        "translation": "to leave"
+    },
+    {
+        "verb": "parvenir",
+        "translation": "to reach"
+    },
+    {
+        "verb": "passer",
+        "translation": "to pass, spend time"
+    },
+    {
+        "verb": "patiner",
+        "translation": "to skate"
+    },
+    {
+        "verb": "payer",
+        "translation": "to pay"
+    },
+    {
+        "verb": "pêcher",
+        "translation": "to fish"
+    },
+    {
+        "verb": "peigner",
+        "translation": "to comb"
+    },
+    {
+        "verb": "peindre",
+        "translation": "to paint"
+    },
+    {
+        "verb": "peler",
+        "translation": "to peel"
+    },
+    {
+        "verb": "pendre",
+        "translation": "to hang"
+    },
+    {
+        "verb": "pénétrer",
+        "translation": "to enter"
+    },
+    {
+        "verb": "penser",
+        "translation": "to think"
+    },
+    {
+        "verb": "percevoir",
+        "translation": "to perceive"
+    },
+    {
+        "verb": "perdre",
+        "translation": "to lose"
+    },
+    {
+        "verb": "périr",
+        "translation": "to perish"
+    },
+    {
+        "verb": "permettre",
+        "translation": "to permit"
+    },
+    {
+        "verb": "persuader",
+        "translation": "to persuade"
+    },
+    {
+        "verb": "peser",
+        "translation": "to weigh"
+    },
+    {
+        "verb": "pianoter",
+        "translation": "to tap (like a piano)"
+    },
+    {
+        "verb": "placer",
+        "translation": "to put"
+    },
+    {
+        "verb": "plaindre",
+        "translation": "to pity"
+    },
+    {
+        "verb": "plaire",
+        "translation": "to please"
+    },
+    {
+        "verb": "plaisanter",
+        "translation": "to joke"
+    },
+    {
+        "verb": "planter",
+        "translation": "to plant, to crash (PC)"
+    },
+    {
+        "verb": "pleurer",
+        "translation": "to cry"
+    },
+    {
+        "verb": "pleuvoir",
+        "translation": "to rain"
+    },
+    {
+        "verb": "plier",
+        "translation": "to fold, bend"
+    },
+    {
+        "verb": "plonger",
+        "translation": "to dive"
+    },
+    {
+        "verb": "poindre",
+        "translation": "to dawn"
+    },
+    {
+        "verb": "pondre",
+        "translation": "to lay (an egg)"
+    },
+    {
+        "verb": "porter",
+        "translation": "to wear, carry"
+    },
+    {
+        "verb": "poser",
+        "translation": "to put"
+    },
+    {
+        "verb": "possèder",
+        "translation": "to possess"
+    },
+    {
+        "verb": "poursuivre",
+        "translation": "to pursue"
+    },
+    {
+        "verb": "pousser",
+        "translation": "to push"
+    },
+    {
+        "verb": "pouvoir",
+        "translation": "to be able to"
+    },
+    {
+        "verb": "prédire",
+        "translation": "to predict"
+    },
+    {
+        "verb": "préferer",
+        "translation": "to prefer"
+    },
+    {
+        "verb": "prendre",
+        "translation": "to take"
+    },
+    {
+        "verb": "préparer",
+        "translation": "to prepare"
+    },
+    {
+        "verb": "prescrire",
+        "translation": "to subscribe"
+    },
+    {
+        "verb": "présenter",
+        "translation": "to present"
+    },
+    {
+        "verb": "pressentir",
+        "translation": "to have a premontion"
+    },
+    {
+        "verb": "presser",
+        "translation": "to squeeze"
+    },
+    {
+        "verb": "prétendre",
+        "translation": "to claim"
+    },
+    {
+        "verb": "prêter",
+        "translation": "to loan"
+    },
+    {
+        "verb": "prévenir",
+        "translation": "to prevent"
+    },
+    {
+        "verb": "prévoir",
+        "translation": "to foresee"
+    },
+    {
+        "verb": "prier",
+        "translation": "to pray"
+    },
+    {
+        "verb": "produire",
+        "translation": "to produce"
+    },
+    {
+        "verb": "projeter",
+        "translation": "to project"
+    },
+    {
+        "verb": "promener",
+        "translation": "to walk"
+    },
+    {
+        "verb": "promettre",
+        "translation": "to promise"
+    },
+    {
+        "verb": "prononcer",
+        "translation": "to pronounce"
+    },
+    {
+        "verb": "proposer",
+        "translation": "to propose, suggest"
+    },
+    {
+        "verb": "proscrire",
+        "translation": "to prohibit"
+    },
+    {
+        "verb": "protèger",
+        "translation": "to protect"
+    },
+    {
+        "verb": "prouver",
+        "translation": "to prove"
+    },
+    {
+        "verb": "provenir",
+        "translation": "to come from, be due to"
+    },
+    {
+        "verb": "puer",
+        "translation": "to stink"
+    },
+    {
+        "verb": "punir",
+        "translation": "to punish"
+    },
+    {
+        "verb": "quérir",
+        "translation": "to summon"
+    },
+    {
+        "verb": "quitter",
+        "translation": "to leave"
+    },
+    {
+        "verb": "raconter",
+        "translation": "to tell, recount"
+    },
+    {
+        "verb": "ralentir",
+        "translation": "to slow down"
+    },
+    {
+        "verb": "ranger",
+        "translation": "to arrange"
+    },
+    {
+        "verb": "rappeler",
+        "translation": "to recall"
+    },
+    {
+        "verb": "rassurer",
+        "translation": "to reassure"
+    },
+    {
+        "verb": "rater",
+        "translation": "to miss"
+    },
+    {
+        "verb": "ravir",
+        "translation": "to delight"
+    },
+    {
+        "verb": "recevoir",
+        "translation": "to receive"
+    },
+    {
+        "verb": "reconduire",
+        "translation": "to renew"
+    },
+    {
+        "verb": "reconnaître",
+        "translation": "to recognise"
+    },
+    {
+        "verb": "reconstruire",
+        "translation": "to rebuild"
+    },
+    {
+        "verb": "recoudre",
+        "translation": "to sew back on"
+    },
+    {
+        "verb": "s'abstenir",
+        "translation": "to abstain"
+    },
+    {
+        "verb": "s'enfuir",
+        "translation": "to run away"
+    },
+    {
+        "verb": "s'enquérir",
+        "translation": "to inquire"
+    },
+    {
+        "verb": "s'ensuivre",
+        "translation": "to ensue"
+    },
+    {
+        "verb": "se dédire",
+        "translation": "to retract"
+    },
+    {
+        "verb": "se prévaloir",
+        "translation": "to pride oneself on"
+    }
+]

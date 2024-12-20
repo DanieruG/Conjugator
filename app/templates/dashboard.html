@@ -1,0 +1,49 @@
+{% extends "navBar.html" %}
+
+{% block content %}
+<h2 class="text-center"> Welcome, {{ user_email }}!</h2>
+
+<div class="container-fluid" style="margin-top: 50px;">
+  <div class="row">
+    <div class="col-md-6">
+      <table class="table table-bordered" style="border: 2px solid black;">
+        <tr>
+          <th> Recorded statistic </th>
+          <th> Data value </th>
+        </tr>
+        <tr>
+          <td> Total exercises completed </td>
+          <td> {{ totalExercises }} </td>
+        </tr>
+        <tr>
+          <td> Total correct answers </td>
+          <td> {{ totalCorrect }} </td>
+        </tr>
+        <tr>
+          <td> Total incorrect answers </td>
+          <td> {{ totalIncorrect }} </td>
+        </tr>
+        <tr>
+          <td> Total time spent </td>
+          <td> {{ totalTime }} </td>
+        </tr>
+        <tr>
+          <td> Average difficulty score across all verbs </td>
+          <td> {{ averageDifficulty }} </td>
+        </tr>
+      </table>
+    </div>
+    <div class="col-md-6">
+      <table class="table table-bordered" style="border-style: solid; border: 2px solid black;">
+        <tr>
+          <th> Exercises </th>
+          <th> Completion Date </th>
+        </tr>
+        <tr>
+          <td>Blank</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+{% endblock %}

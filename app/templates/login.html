@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login page</title>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery-3.7.1.min.js') }}"></script>
+    <script type="module" src="{{ url_for('static', filename='js/loginHandler.js') }}"></script>
+    <script type="module" src="{{ url_for('static', filename='js/reusableStack.js') }}"></script> <!--Essential to use functions!-->
+</head>
+<body>
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      {% for message in messages %}
+      <div class="alert alert-success alert-dismissible fade show" role="alert">
+          {{ message }}
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
+        </button>
+      </div>
+      {% endfor %}
+    {%endif%}
+  {%endwith%}
+    <div id="alertBox"></div>
+    <div class="container vh-100 d-flex justify-content-center align-items-center flex-column"> <!-- Restrains the width of the login boxes; it was previously very stretched out.-->
+      <!--Added flex-column, which allows the heading Conjugator to display right above the login box.-->
+      <h2 style="text-align: center;">Conjugator</h2>
+      <div class="card m-4" style="width: 28rem">
+        <div class="card-body">
+          <h5 class="card-text">Login</h5>
+      <!--vh extends the container to take up the whole viewboard (webpage), so that the form can actually be put in the middle.-->
+          <form id="loginForm" method="post" novalidate> <!-- d-flex is useful for positioning. Think of it as a grind kind of feature like with tkinter.-->
+              <div class="mb-3">
+                <label for="emailField">Email address</label>
+                <input type="email" class="form-control" id="emailField" aria-describedby="emailHelp" placeholder="Enter email" required>
+                <div class="invalid-feedback">Please enter a valid email address.</div>
+                <small id="emailHelp" class="form-text text-muted">This is the email you signed up with.</small>
+              </div>
+              <div class="mb-3">
+                <label for="inputPassword">Password</label>
+                <input type="password" class="form-control" id="inputPassword" placeholder="Password" required>
+                <div class="invalid-feedback">Password must be at least 8-30 characters long, and contain at least one digit, uppercase and lowercase letter each.</div>
+              </div>
+              <div class="mb-3 form-check">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                <label class="form-check-label" for="exampleCheck1">Show password</label> <!-- This is green, investigate ASAP.-->
+              </div>
+              <button type="submit" class="btn btn-primary">Submit</button>
+              <br>
+              <small id="accountCreate" class="form-text text-muted">Don't have an account? <a href="register">Create one!</a></small>
+            </form>
+        </div>
+      </div>
+    </div>
+
+</body>
+</html>

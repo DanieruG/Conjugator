@@ -1,0 +1,500 @@
+abaisser	to lower
+abasourdir	to daze, bewilder
+abattre	to knock down
+abolir	to abolish
+absoudre	to abolish
+accepter	to accept
+acclamer	to cheer, acclaim
+accompagner	to accompany
+accorder	to admit
+accourir	to hurry
+accrocher	to hang (up)
+accueillir	to welcome
+accuser	to accuse, acknowledge
+acheter	to buy
+achever	to achieve
+acquérir	to acquire
+adjoindre	to appoint
+admettre	to admit
+admirer	to admire
+adorer	to adore
+adresser	to address
+advenir	to happen
+affaiblir	to weaken
+agacer	to annoy
+agir	to act
+aider	to help
+aimer	to like, love
+ajouter	to add
+aller	to go
+aménager	to fit
+amener	to take
+amuser	to amuse
+animer	to bring to life
+annoncer	to announce
+apercevoir	to see
+apparaître	to appear
+appartenir	to belong
+appeler	to call
+apporter	to bring
+apprendre	to learn
+apprendre par cœur	to memorise
+approcher	to approach
+approuver	to approve (of)
+armer	to arm
+arracher	to pull up/out
+arranger	to arrange
+arrasisonner	to hail
+arrêter	to stop
+arriver	to arrive
+asaillir	to assail
+asseoir	to sit down
+assister	to attend
+assurer	to assure
+astreindre	to compel
+attaquer	to attack
+atteindre	to attain
+attendre	to wait for
+attirer	to attract
+attraper	to catch
+augmenter	to increase
+avancer	to advance
+aventurer	to venture
+avoir	to have
+avoir besoin	to need
+avoir raison	to be right
+baisser	to lower
+balancer	to swing
+balayer	to sweep
+bâtir	to build
+battre	to beat
+bavarder	to chat
+bêlir	to bleet
+bénir	to bless
+blaguer	to joke
+blâmer	to blame
+blanchir	to bleach
+blesser	to hurt, offend
+boire	to drink
+bouger	to move
+bouillir	to boil
+briser	to break
+brosser	to brush
+broyer	to grind
+brûler	to burn
+cacher	to hide
+casser	to break
+causer	to cause
+céder	to give up
+ceindre	to put on
+célebrer	to celebrate
+cesser	to cease
+changer	to change
+chanter	to sing
+charger	to load
+chasser	to hunt, chase
+cheminer	to walk on
+chercher	to look for
+chérir	to cherish
+choisir	to choose
+chuchoter	to whisper
+circoncire	to circumcise
+circonscrire	to contain
+circonvenir	to circumvent
+clore	to close
+coller	to stick
+combattre	to combat
+commander	to order
+commencer	to start
+commettre	to commit
+comparaître	to appear
+comparer	to compare
+compléter	to complete
+comprendre	to understand
+compter	to count
+concevoir	to conceive
+conclure	to conclude
+concourir	to compete
+conduire	to drive
+confire	to preserve
+confondre	to confuse
+conjoindre	to unite
+connaître	to know
+conquérir	to conquer
+conseiller	to recommend
+consentir	to consent
+considérer	to consider
+consommer	to consume
+construire	to construct
+contenir	to contain
+conter	to recount
+continuer	to continue
+contraindre	to compel
+contredire	to contradict
+contrevenir	to contravene
+contrôler	to control
+convaincre	to convince
+convenir	to convene
+correspondre	to correspond
+corriger	to correct
+corrompre	to corrupt
+coucher	to put to bed
+coudre	to sew
+couper	to cut
+courir	to run
+coûter	to cost
+couvrir	to cover
+craindre	to fear
+créer	to create
+crier	to shout
+croire	to believe
+cueillir	to gather
+cuire	to cook
+culpabiliser	to make sb feel guilty
+danser	to dance
+débattre	to debate
+décevoir	to disappoint
+déchirer	to rip
+décider	to decide
+déclore	to reopen
+déconfire	to be beaten
+découdre	to unpick
+décourager	to discourage
+découvrir	to discover
+décrire	to describe
+déduire	to deduce
+défaillir	to faint
+défaire	to undo
+défendre	to defend
+défricher	to lay groundwork
+dégager	to free
+déjeuner	to have lunch
+demander	to ask for
+déménager	to move (out)
+demeurer	to live, stay
+démolir	to demolish
+dénoncer	to denounce
+départir	to accord
+dépasser	to exceed
+dépêcher	to hurry
+dépeindre	to depict
+dépendre	to depend
+dépenser	to spend
+déplaire	to displease
+déranger	to disturb
+descendre	to descend
+désirer	to desire
+désobéir	to disobey
+dessiner	to draw
+déteindre	to bleach
+détester	to hate
+détiner	to hold
+détourner	to divert
+détruire	to destroy
+développer	to develop
+devenir	to become
+devoir	to have to
+différer	to differ
+diminuer	to diminish
+dîner	to have dinner
+dire	to say
+diriger	to direct
+discourir	to discourse
+discuter	to discuss
+disjoindre	to disconnect
+disparaître	to disappear
+dissoudre	to dissolve
+divorcer	to divorce
+donner	to give
+dormir	to sleep
+doubler	to pass
+douter	to doubt
+échapper	to escape
+échouer	to fail
+éclore	to hatch
+éconduire	to dismiss
+écouter	to listen
+écraser	to crush
+écrire	to write
+effacer	to erase
+effrayer	to frighten
+égayer	to entertain
+élever	to raise
+élire	to elect
+éloigner	to move away
+embrasser	to kiss
+emmener	to take
+émoudre	to sharpen
+emparer	to impare
+empêcher	to prevent
+employer	to employ, use
+empreindre	to imprint
+emprunter	to borrow
+enclore	to enclose
+encourager	to encourage
+encourir	to incur
+endormir	to fall asleep
+enduire	to coat
+enfreindre	to infringe
+engager	to bind
+enjoindre	to enjoin
+enlever	to remove
+ennuyer	to bore, annoy
+énoncer	to state
+enregistrer	to record
+enseigner	to teach
+entendre	to hear
+enterrer	to bury
+entrainer	to involve, pull
+entreprendre	to undertake
+entrer	to enter
+entretenir	to look after
+entrouvrir	to half-open
+envoler	to take flight
+envoyer	to send
+épeler	to spell
+épouser	to marry
+épreindre	to juice
+éprouver	to test
+équivaloir	to equal
+espérer	to hope
+essayer	to try
+essuyer	to wipe
+estimer	to estimare
+établir	to establish
+éteindre	to extinguish
+étendre	to stretch
+étourdir	to stun
+être	to be
+étreindre	to embrace
+éttoner	to astonish
+étudier	to study
+évaluer	to evaluate
+éviter	to avoid
+exagérer	to exaggerate
+excluire	to exclude
+excuser	to excuse
+exiger	to demand
+exister	to exist
+expliquer	to explain
+explorer	to explore
+exprimer	to express
+fâcher	to get angry
+faiblir	to weaken
+faillir	to lack
+faire	to make, do
+falloir	to be necessary
+feindre	to feign
+féliciter	to congratulate
+fendre	to split, crack
+fermer	to close
+feuilleter	to leaf through
+fier	to depend on
+finir	to finish
+fixer	to fix
+fonder	to found
+forcer	to force
+forclore	to debar
+fouiller	to dig deeply
+fournir	to furnish, provide
+frapper	to knock
+frémir	to shudder
+frire	to fry
+fuir	to flee
+fumer	to smoke
+gagner	to earn, win
+garder	to keep
+gaspiller	to waste
+gâter	to spoil
+geindre	to groan
+geler	to freeze
+gêner	to bother
+gérer	to manage
+goûter	to taste
+grandir	to grow
+gratter	to scratch
+grêler	to hail
+grimper	to climb
+gronder	to scold
+guérir	to cure
+habiller	to dress
+habiter	to live
+haïr	to hate
+hésister	to hesitate
+hoqueter	to hiccup
+ignorer	to be unaware of, ignore
+imposer	to impose
+inclure	to include
+indiquer	to indicate
+induire	to mislead
+informer	to inform
+inquiéter	to worry
+inscrire	to write down
+insister	to insist
+instruire	to instruct
+interdire	to forbid
+intéresser	to interest
+interroger	to question
+introduire	to introduce
+inventer	to invent
+inviter	to invite
+jaillir	to spurt out
+jaser	to chatter
+jaunir	to turn yellow
+jeter	to throw
+joindre	to join
+jouer	to play
+jouir	to enjoy
+juger	to judge
+jurer	to swear, vow
+kidnapper	to kidnap
+klaxonner	to honk
+lâcher	to loosen
+laisser	to leave
+lancer	to throw
+laver	to wash
+lever	to lift, stand
+lire	to read
+loger	to lodge
+louer	to rent
+luire	to shine
+maigrir	to lose weight
+maintenir	to maintain
+manger	to eat
+manquer	to miss
+marcher	to walk, function
+maudire	to curse
+méconnaître	to be unaware of
+médire	to malign
+méfier	to mistrust
+mélanger	to mix
+menacer	to threaten
+mener	to lead
+mentir	to lie
+méprendre	to mistake
+mépriser	to scorn
+mériter	to deserve
+mesurer	to measure
+mettre	to put
+modérer	to moderate
+monter	to climb
+montrer	to show
+moquer	to mock
+mordre	to bite
+moudre	to mill, girl
+mouiller	to wet
+mourir	to die
+nager	to swim
+naître	to be born
+naviguer	to navigate
+négliger	to neglect
+négocier	to negociate
+neiger	to snow
+nettoyer	to clean
+neutraliser	to neutralise
+nier	to deny
+noircir	to blacken
+nommer	to name
+noter	to write down
+nouer	to knot, tie
+nourir	to feed
+noyer	to drown
+nuire	to harm
+obéir	to obey
+obliger	to oblige
+obtenir	to obtain, get
+occlure	to occlude
+occuper	to occupy
+offrir	to offer
+oindre	to anoint
+omettre	to omit
+oser	to dare
+oublier	to forger
+ouvrir	to open
+paraître	to seem
+parcourir	to travel, cover
+pardonner	to forgive
+parler	to talk
+partager	to share
+participer	to participate
+partir	to leave
+parvenir	to reach
+passer	to pass, spend time
+patiner	to skate
+payer	to pay
+pêcher	to fish
+peigner	to comb
+peindre	to paint
+peler	to peel
+pendre	to hang
+pénétrer	to enter
+penser	to think
+percevoir	to perceive
+perdre	to lose
+périr	to perish
+permettre	to permit
+persuader	to persuade
+peser	to weigh
+pianoter	to tap (like a piano)
+placer	to put
+plaindre	to pity
+plaire	to please
+plaisanter	to joke
+planter	to plant, to crash (PC)
+pleurer	to cry
+pleuvoir	to rain
+plier	to fold, bend
+plonger	to dive
+poindre	to dawn
+pondre	to lay (an egg)
+porter	to wear, carry
+poser	to put
+possèder	to possess
+poursuivre	to pursue
+pousser	to push
+pouvoir	to be able to
+prédire	to predict
+préferer	to prefer
+prendre	to take
+préparer	to prepare
+prescrire	to subscribe
+présenter	to present
+pressentir	to have a premontion
+presser	to squeeze
+prétendre	to claim
+prêter	to loan
+prévenir	to prevent
+prévoir	to foresee
+prier	to pray
+produire	to produce
+projeter	to project
+promener	to walk
+promettre	to promise
+prononcer	to pronounce
+proposer	to propose, suggest
+proscrire	to prohibit
+protèger	to protect
+prouver	to prove
+provenir	to come from, be due to
+puer	to stink
+punir	to punish
+quérir	to summon
+quitter	to leave
+raconter	to tell, recount
+ralentir	to slow down
+ranger	to arrange
+rappeler	to recall
+rassurer	to reassure
+rater	to miss
+ravir	to delight
+recevoir	to receive
+reconduire	to renew
+reconnaître	to recognise
+reconstruire	to rebuild
+recoudre	to sew back on
+s'abstenir	to abstain
+s'enfuir	to run away
+s'enquérir	to inquire
+s'ensuivre	to ensue
+se dédire	to retract
+se prévaloir	to pride oneself on

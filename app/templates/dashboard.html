@@ -1,0 +1,73 @@
+{% extends "navBar.html" %}
+
+{% block title %} Dashboard {% endblock %}
+
+
+{% block scripts %}
+  <script src="{{ url_for('static', filename='js/statisticsRetriever.js') }}"></script>
+{% endblock %}
+
+
+
+{% block content %}
+<h2 class="text-center"> Welcome, {{ user_email }}!</h2>
+
+<div class="container-fluid" style="margin-top: 50px;">
+  <div class="row">
+    <div class="col-md-6">
+      <table class="table table-sm table-bordered" style="border: 2px solid black;">
+        <tr>
+          <th scope="col">Recorded statistic</th>
+          <th scope="col">Data value</th>
+        </tr>
+        <tr>
+          <td> Total exercises completed </td>
+          <td id="totalExercises"> {{ totalExercises }} </td>
+        </tr>
+        <tr>
+          <td> Total correct answers </td>
+          <td id="totalCorrect"> {{ totalCorrect }} </td>
+        </tr>
+        <tr>
+          <td> Total incorrect answers </td>
+          <td id="totalIncorrect"> {{ totalIncorrect }} </td>
+        </tr>
+        <tr>
+          <td> % Correct </td>
+          <td id="Correctness"> {{ Correctness }} </td>
+        </tr>
+        <tr>
+          <td> % Incorrect </td>
+          <td id="Incorrectness"> {{ Incorrectness }} </td>
+        </tr>
+        <tr>
+          <td> Total time spent </td>
+          <td id="totalTime"> {{ totalTime }} </td>
+        </tr>
+        <tr>
+          <td> Best Exercise </td>
+          <td id="bestExercise"> {{ Correctness }} </td>
+        </tr>
+        <tr>
+          <td> Worst Exercise </td>
+          <td id="worstExercise"> {{ Incorrectness }} </td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="col-md-6">
+      <table class="table table-sm table-bordered" style="border-style: solid; border: 2px solid black;">
+        <thead>
+          <tr>
+            <th scope="col"> Exercises </th>
+            <th scope="col"> Completion Date </th>
+          </tr>
+        </thead>
+        <tbody id="exercisesTable">
+          <!-- Table rows will be inserted here -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,47 @@
+{% extends "navBar.html" %}
+
+{% block title %} Settings {% endblock %}
+
+{% block scripts %}
+    <script type="module" src="{{ url_for('static', filename='js/settingsHandler.js') }}"></script>
+    <script type="module" src="{{ url_for('static', filename='js/reusableStack.js') }}"></script> <!--Essential to use functions!-->
+{% endblock %}
+
+{% block content %}
+
+<div id="alertBox"></div>
+
+<div class="mx-auto" style="width: 800px;">
+    <div class="card m-4 p-4">
+        <h4 class="card-header">Settings</h4>
+        <form id="changeDetails" method="post" novalidate>
+            <div class="mb-3" style="max-width: 35%; margin-left: 10px;"></div>
+                <div class="form-group mb-3 p-2">
+                    <label for="emailField">New email address:</label>
+                    <input type="email" class="form-control" id="emailField" aria-describedby="emailHelp" placeholder="Enter email" required>
+                    <div class="invalid-feedback">Optional: Please enter a valid email address.</div>
+                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                </div>
+                <div class="form-group mb-3 p-2">
+                    <label for="inputPassword">Current password:</label>
+                    <input type="password" class="form-control" id="inputPassword" placeholder="Password" required>
+                    <div class="invalid-feedback">Password does not match.</div>
+                </div>
+                <div class="form-group mb-3 p-2">
+                    <label for="newPassword">New password:</label>
+                    <input type="password" class="form-control" id="newPassword" placeholder="Enter new password">
+                    <div class="invalid-feedback">New password is invalid.</div>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="showPassword">
+                    <label class="form-check-label" for="showPassword">Show passwords</label> <!-- This is green, investigate ASAP.-->
+                </div>
+                <button type="submit" class="btn btn-primary" id="submitDetails">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+{% endblock %}

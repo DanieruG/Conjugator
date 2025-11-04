@@ -1,0 +1,35 @@
+{% extends "navBar.html" %}
+
+{% block title %}Summary{% endblock %}
+
+
+{% block scripts %}
+    <script src="{{ url_for('static', filename='js/exerciseRecall.js') }}"></script>
+{% endblock %}
+
+
+{% block content %}
+
+<h3 class="text-center">See a summary of your results for this exercise below:</h3>
+<div class="container-fluid" style="width: 50%; margin-top: 30px;"> 
+    <p>The exercise was out of <span id="totalQuestions">20</span>. You answered <span style="color: green;" id="correct"><b>20</b></span> questions correctly, and answered 
+        <span style="color: red;" id="incorrect"><b>0</b></span> incorrectly. 
+        It took you a total <span id="minutes">0 minutes</span> and <span id="seconds">0 seconds</span> to complete the exercise. The details of this exercise have been saved.</p>
+    <table class="table table-sm table-bordered" style="float: left;">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Question</th>
+                <th scope="col">Response</th>
+                <th scope="col">Answer</th>
+                <th scope="col">Result</th>
+            </tr>
+        </thead>
+        <tbody id="summaryTable">
+            <!-- Things inserted here -->
+        </tbody>
+    </table>
+</div>
+
+
+{% endblock %}

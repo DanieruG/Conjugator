@@ -1,0 +1,111 @@
+{% extends "navBar.html" %}
+
+
+{% block title %}Customisation{% endblock %}
+
+
+{% block scripts %}
+    <script src="{{ url_for('static', filename='js/exerciseSelector.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/select2.full.js') }}"></script>
+{% endblock %}
+
+
+
+
+{% block content %}
+
+<div id="alertBox"></div>
+<!-- For the checkbox -->
+<style> 
+    .form-check-input {
+        margin-left: 3px;
+    }
+    .form-check-label {
+        margin-left: 18px;
+    }
+</style>
+
+<div class="mx-auto" style="width: 800px;">
+        <div class="card m-4">
+            <!-- Margin top moves the box upwards -->
+            <h4 class="card-header">Customise your exercise</h4>
+
+            <form id="exerciseCustomisation" method="post" novalidate>
+
+                <div class="mb-3" style="max-width: 35%;margin-left: 10px;">
+                    <label for="verbSelector">Select your verbs</label>
+                        <select class="js-example-basic-multiple js-states form-control" id="verbSelector" multiple="multiple" required>
+                            <optgroup label="-er verbs">
+                                {% for verb in er_verbs %}
+                                <option>{{ verb }}</option>
+                                {% endfor %}
+                            </optgroup>
+                            <optgroup label="-re verbs">
+                                {% for verb in re_verbs %}
+                                <option>{{ verb }}</option>
+                                {% endfor %}
+                            </optgroup>
+                            <optgroup label="-ir verbs">
+                                {% for verb in ir_verbs %}
+                                <option>{{ verb }}</option>
+                                {% endfor %}
+                            </optgroup>
+                        </select>
+                        <div class="invalid-feedback">Please select at least one verb.</div>
+                    </label>
+                </div>
+
+                <div class="mb-3" style="max-width: 35%;margin-left: 10px;">
+                    <label for="pronounSelector">Select the pronouns required</label>
+                        <select class="js-example-basic-multiple js-states form-control" id="pronounSelector" multiple="multiple" required>
+                            <option>Je</option>
+                            <option>Tu</option>
+                            <option>Il/Elle/On</option>
+                            <option>Nous</option>
+                            <option>Vous</option>
+                            <option>Ils/Elles</option>
+                        </select>
+                        <div class="invalid-feedback">Please select at least one pronoun.</div>
+                </div>
+
+                
+                <div class="mb-3" style="max-width: 50%;margin-left: 10px; width: 35%;">
+                    <label for="tenseSelector">Select the tenses required</label>
+                        <select class="js-example-basic-multiple js-states form-control" id="tenseSelector" multiple="multiple" required>
+                            <optgroup label="indicatif">
+                                <option value="présent">Ind - Present</option>
+                                <option value="imparfait">Imparfait</option>
+                                <option value="passé-composé">Passe Composé</option>
+                                <option value="plus-que-parfait">Plus-que-parfait</option>
+                                <option value="futur-simple">Futur Simple</option>
+                            </optgroup>
+                            <optgroup label="subjonctif">
+                                <option value="présent">Sub - Present</option>
+                                <option value="passé">Sub - Passé</option>
+                            </optgroup>
+                            <optgroup label="conditionnel">
+                                <option value="présent"> Con - Present</option>
+                                <option value="passé">Con - Passé</option>
+                            </optgroup>
+                        </select>
+                        <div class="invalid-feedback">Please select at least one tense.</div>
+                    </label>
+                </div>
+
+                <label for="exerciseDuration" style="margin-left: 10px;">
+                    Duration (in minutes)
+                    <br>
+                    <input type="number" id="exerciseDuration" class="form-control" value="10" required> <!-- Needs to have a limit, other validation in place. -->
+                    <div class="invalid-feedback">The duration of the exercise cannot be greater than 20 minutes</div>
+                </label>
+
+                <br>
+
+                <button id="setExercise" type="submit" class="btn btn-primary" style="margin-bottom: 10px; margin-left: 10px;">Start exercise</button>
+            </form>
+
+        </div>
+</div>
+
+
+{% endblock %}
